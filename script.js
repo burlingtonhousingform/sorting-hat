@@ -1,242 +1,493 @@
-[
-  {
-    "Organization": "Burlington Housing Authority",
-    "Contact_Name": "Veronica Revels",
-    "Phone": "(336) 226-8421",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 0,
-    "Max_Rent": 1200,
-    "Min_Credit": 0,
-    "Voucher_Friendly": "Yes",
-    "Pet_Friendly": "Service animals only",
-    "Bedrooms": "1-4",
-    "Notes": "BHA manages 6 communities owned by BDC Investment Communities, LLC. Multifamily housing, 2 elderly/disabled exclusive communities in Burlington. No vouchers accepted except 1 community has vouchers administered by Asheboro Housing Authority, the other 5 communities are Project Based Rental Assistance (PBRA), has waitlist. Eligibility determined by HUD guidelines. Rent is based on income.",
-    "Match_Tags": ["voucher-friendly", "public-housing", "low-income", "accessibility-support", "elderly-disabled", "income-based"]
-  },
-  {
-    "Organization": "Burlington Rentals",
-    "Contact_Name": "Chris McCann",
-    "Phone": "(336) 516-6000",
-    "Email": "chrismccann@gmail.com",
-    "Address": "",
-    "Min_Rent": 900,
-    "Max_Rent": 1400,
-    "Min_Credit": 500,
-    "Voucher_Friendly": "Unknown",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "Manages multi-unit properties and single-family homes throughout Burlington. Basic amenities like parking and laundry, no luxury features. Focus on steady income and rental history more than perfect credit.",
-    "Match_Tags": ["property-manager", "single-family", "basic-amenities", "working-families"]
-  },
-  {
-    "Organization": "Clifton Place",
-    "Contact_Name": "Denise",
-    "Phone": "(336) 350-8529",
-    "Email": "carter@aptdynamics.com",
-    "Address": "",
-    "Min_Rent": 947,
-    "Max_Rent": 1500,
-    "Min_Credit": 500,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Unknown",
-    "Bedrooms": "1-3",
-    "Notes": "No major amenities like a pool. Mid-range pricing, credit must be around 500. No prior evictions allowed and background checks are done.",
-    "Match_Tags": ["mid-range", "credit-500", "no-evictions", "background-check"]
-  },
-  {
-    "Organization": "Dartmouth Court Apartments",
-    "Contact_Name": "Sandra",
-    "Phone": "+1 (336) 855-4908",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 950,
-    "Max_Rent": 1600,
-    "Min_Credit": 550,
-    "Voucher_Friendly": "Unknown",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "2-4",
-    "Notes": "Manages roughly 60 single-family rental homes throughout Alamance and Guilford Counties. Gradually upgrading insulation, windows, and HVAC for energy efficiency. Offers flexible payment plans during high-utility months.",
-    "Match_Tags": ["single-family", "energy-efficient", "flexible-payment", "yards", "working-families"]
-  },
-  {
-    "Organization": "Emerson Apartments",
-    "Contact_Name": "Misty",
-    "Phone": "(336) 343-1099",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1400,
-    "Max_Rent": 1450,
-    "Min_Credit": 600,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "2-2",
-    "Notes": "Only 2-bedroom apartments. Utilities not included. Applicants must show income of at least three times the rent. Credit and criminal background checks required. Small trash and pest-control fees. Pet-friendly with a dog park.",
-    "Match_Tags": ["pet-friendly", "income-3x", "extra-fees", "dog-park", "mid-range"]
-  },
-  {
-    "Organization": "Ethan Pointe Apartments",
-    "Contact_Name": "Brena Rebollar",
-    "Phone": "(888) 592-5675",
-    "Email": "",
-    "Address": "Burlington NC",
-    "Min_Rent": 1000,
-    "Max_Rent": 1450,
-    "Min_Credit": 500,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "Numerous amenities including pool, lounges, basketball court, and movie theater. Very pet-friendly with a dog park. Offers valet trash service and several amenity, trash, and pet fees that increase overall cost.",
-    "Match_Tags": ["pet-friendly", "amenities-rich", "extra-fees", "valet-trash", "mixed-renters"]
-  },
-  {
-    "Organization": "Family Justice Center",
-    "Contact_Name": "Mallory",
-    "Phone": "+1 (978) 460-9038",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 9999,
-    "Max_Rent": 9999,
-    "Min_Credit": 0,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "No",
-    "Bedrooms": "0",
-    "Notes": "Supports people dealing with housing insecurity and domestic abuse in Alamance County. Highlighted underfunded departments, growing homelessness, and the need for more shelters, food programs, and transportation.",
-    "Match_Tags": ["support-services", "domestic-violence", "housing-insecurity", "advocacy"]
-  },
-  {
-    "Organization": "Forest Ridge Townhomes",
-    "Contact_Name": "Thomas",
-    "Phone": "(336) 338-4900",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1250,
-    "Max_Rent": 1800,
-    "Min_Credit": 550,
-    "Voucher_Friendly": "Unknown",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "2-3",
-    "Notes": "2- and 3-bedroom townhomes targeted toward working families. Each home separately metered for utilities. No pool or gym to keep costs manageable. Low turnover but increased maintenance requests. Recently switched to low-flow fixtures.",
-    "Match_Tags": ["townhome", "working-families", "sustainability-water", "basic-amenities"]
-  },
-  {
-    "Organization": "Green Haven Apartments",
-    "Contact_Name": "Tasha",
-    "Phone": "(336) 229-4120",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1050,
-    "Max_Rent": 1450,
-    "Min_Credit": 550,
-    "Voucher_Friendly": "Unknown",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-2",
-    "Notes": "Renovated in 2015 with a mix of one- and two-bedroom units. Water and trash included in rent; tenants pay electricity and internet. Energy-efficient appliances and LED lighting. Many long-term residents, focus on maintenance and HVAC costs.",
-    "Match_Tags": ["energy-efficient", "utilities-included", "long-term-residents", "mid-range"]
-  },
-  {
-    "Organization": "Huffman Hill Townhomes",
-    "Contact_Name": "",
-    "Phone": "743-373-0002",
-    "Email": "",
-    "Address": "706 Huffman Mill Rd Burlington NC 27215",
-    "Min_Rent": 949,
-    "Max_Rent": 1315,
-    "Min_Credit": 500,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "1–3 bedroom apartments with flexible rent plans. Units include washer/dryer, hot water meter, air conditioning, and private patios. Amenities include gym, pool, clubhouse, and nearby public transportation. Pets allowed with fees. Safe, family-friendly community.",
-    "Match_Tags": ["family-friendly", "flexible-rent", "pet-friendly", "pool", "gym", "transit-nearby"]
-  },
-  {
-    "Organization": "Legacy at Baldwin Ridge and Legacy at the Park",
-    "Contact_Name": "Lily and Marcy",
-    "Phone": "(743) 300-5783",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1260,
-    "Max_Rent": 1800,
-    "Min_Credit": 600,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "Offers 1–3 bedroom apartments. Residents pay for water and have valet trash. Laundry in-unit. Tenants must make three times the rent and are screened in-house. Newer, more expensive housing with several required fees.",
-    "Match_Tags": ["income-3x", "amenities-modern", "valet-trash", "secure", "higher-end"]
-  },
-  {
-    "Organization": "Meadows of Graham Apartments",
-    "Contact_Name": "Nadine Logan and Misty",
-    "Phone": "(336) 524-7830",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1375,
-    "Max_Rent": 1650,
-    "Min_Credit": 600,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "1–3 bedroom apartments. Utilities such as water and trash are not included. Pet policy includes pet rent and fees with a two-pet maximum. Amenities include a fitness center, picnic and grilling area, and dog park. Washer/dryer rentals available.",
-    "Match_Tags": ["pet-friendly", "amenities-rich", "dog-park", "extra-fees", "newer-complex"]
-  },
-  {
-    "Organization": "Riviera Townes",
-    "Contact_Name": "",
-    "Phone": "336-742-3827",
-    "Email": "",
-    "Address": "797 Collinwood Drive Burlington NC 27215",
-    "Min_Rent": 1649,
-    "Max_Rent": 1799,
-    "Min_Credit": 600,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "3-3",
-    "Notes": "Community of 3 bed / 2.5 bath townhomes (~1400 sq ft). Pet friendly with yard space and patios. Includes washers, dryers, and smart home features. Landscaping and trash included but with move-in fees. Leases typically 10–15 months.",
-    "Match_Tags": ["townhome", "family-friendly", "pet-friendly", "new-construction", "yard-space"]
-  },
-  {
-    "Organization": "Sunshine Realty and Property Management",
-    "Contact_Name": "Lynetra",
-    "Phone": "(336) 226-2345 ext. 1",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 950,
-    "Max_Rent": 1400,
-    "Min_Credit": 550,
-    "Voucher_Friendly": "Unknown",
-    "Pet_Friendly": "Varies",
-    "Bedrooms": "1-3",
-    "Notes": "Manages a mix of single-family rentals and small apartment complexes across Alamance County. Rent typically $950–$1,400. Requires proof of income, background checks, and credit score around 550 or higher. Application fees and security deposits can be barriers for lower-income renters. Strict late payment policies.",
-    "Match_Tags": ["property-manager", "single-family", "strict-late-fees", "credit-550", "application-fees"]
-  },
-  {
-    "Organization": "Waterside Apartment Homes",
-    "Contact_Name": "Megan",
-    "Phone": "(336) 502-8915",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 1195,
-    "Max_Rent": 1745,
-    "Min_Credit": 600,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "Yes",
-    "Bedrooms": "1-3",
-    "Notes": "Gated, newer community (built ~2018) with 240 units. Offers 1, 2, and 3 bedroom apartments. Includes pool, fitness center, dog park, outdoor grilling, clubhouse, gated entry, valet trash, and emergency maintenance. Background and credit checks required.",
-    "Match_Tags": ["pet-friendly", "amenities-rich", "gated", "dog-park", "higher-end"]
-  },
-  {
-    "Organization": "Whitney Law Group",
-    "Contact_Name": "Mark Whitney",
-    "Phone": "781-631-4400",
-    "Email": "",
-    "Address": "",
-    "Min_Rent": 9999,
-    "Max_Rent": 9999,
-    "Min_Credit": 0,
-    "Voucher_Friendly": "No",
-    "Pet_Friendly": "No",
-    "Bedrooms": "0",
-    "Notes": "Legal firm explaining imbalances between landlords and tenants, discrimination due to past history, and barriers to affordable housing. Highlights how legal evictions affect future renting and access to housing.",
-    "Match_Tags": ["legal-services", "tenant-rights", "eviction-support", "housing-law"]
-  }
-]
+// Variable to hold the loaded JSON data
+let HOUSING_DATA = [];
+// Global variables to store the last results for CSV download
+let LAST_ANSWERS = null;
+let LAST_MATCHES = [];
+
+// Helper function to get the value of a selected radio button group
+function getRadioValue(name) {
+    const selector = `input[name="${name}"]:checked`;
+    const element = document.querySelector(selector);
+    return element ? element.value : null;
+}
+
+// --- FUNCTION: Update the income display in real-time ---
+function updateIncomeDisplay(val) {
+    const formatter = new Intl.NumberFormat('en-US', {
+      style: 'currency',
+      currency: 'USD',
+      minimumFractionDigits: 0,
+      maximumFractionDigits: 0,
+    });
+    document.getElementById('income-display').textContent = formatter.format(val);
+}
+
+// --- BRANCHING LOGIC (Core Needs) ---
+
+function showBreedField() {
+    const restricted = getRadioValue('restricted_breed');
+    const breedField = document.getElementById('breed-field-section');
+    
+    if (restricted === "I don't know") {
+        breedField.style.display = 'block';
+    } else {
+        breedField.style.display = 'none';
+        document.getElementById('breed_description').value = '';
+    }
+}
+
+function showPetSections() {
+    const hasPets = getRadioValue('pets'); 
+    const petDetailsSection = document.getElementById('pet-details-section');
+
+    if (hasPets === "Yes") {
+        petDetailsSection.style.display = 'block';
+        showBreedField(); 
+    } else {
+        petDetailsSection.style.display = 'none';
+        document.querySelectorAll('input[name="pet_weight"]').forEach(r => r.checked = false);
+        document.querySelectorAll('input[name="restricted_breed"]').forEach(r => r.checked = false);
+        document.getElementById('breed-field-section').style.display = 'none';
+        document.getElementById('breed_description').value = '';
+    }
+}
+
+
+// --- BRANCHING LOGIC (Current Situation) ---
+function showBranchingSections() {
+    const status = getRadioValue('current_housing'); 
+    
+    // Hide all sections first
+    document.getElementById('unhoused-section').style.display = 'none';
+    document.getElementById('at-risk-section').style.display = 'none';
+    document.getElementById('family-section').style.display = 'none';
+    document.getElementById('own-place-section').style.display = 'none';
+
+    
+    // Show the relevant section
+    if (status === "Currently unhoused") {
+        document.getElementById('unhoused-section').style.display = 'block';
+    } else if (status === "Staying with friends or family") {
+        document.getElementById('family-section').style.display = 'block';
+    } else if (status === "At risk of losing housing") {
+        document.getElementById('at-risk-section').style.display = 'block';
+    } else if (status === "Own place") { 
+        document.getElementById('own-place-section').style.display = 'block';
+    }
+}
+
+// Fetch and load the data when the script starts
+fetch('housing_data.json')
+    .then(response => {
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+        return response.json();
+    })
+    .then(data => {
+        HOUSING_DATA = data;
+        document.getElementById('housing-survey').addEventListener('submit', runSurvey);
+        
+        const incomeSlider = document.getElementById('income-slider');
+        
+        incomeSlider.addEventListener('input', (event) => {
+            updateIncomeDisplay(event.target.value);
+        });
+        
+        showBranchingSections(); 
+        showPetSections(); 
+        
+        const initialIncome = incomeSlider.value;
+        updateIncomeDisplay(initialIncome);
+    })
+    .catch(error => {
+        console.error("Could not load housing data:", error);
+        document.getElementById('results-container').innerHTML = 
+            `<h2>Error: Could not load housing data. Check if 'housing_data.json' is in the same folder.</h2>`;
+    });
+
+// --- SCORING AND MATCHING LOGIC ---
+
+function parseBedroomRange(bedroomStr) {
+    if (typeof bedroomStr === 'number') {
+        const val = parseInt(bedroomStr);
+        return [val, val];
+    }
+    const s = String(bedroomStr).trim();
+    if (s.includes('-')) {
+        const parts = s.split('-');
+        return [parseInt(parts[0]), parseInt(parts[1])];
+    }
+    try {
+        const val = parseInt(s);
+        return [val, val];
+    } catch {
+        return [0, 10];
+    }
+}
+
+function scoreAgency(agency, answers) {
+    let score = 0;
+    let positiveReasons = [];
+    let negativeReasons = [];
+
+    const minRent = agency.Min_Rent || 0;
+    const maxRent = agency.Max_Rent || 1000000;
+    const petFriendly = String(agency.Pet_Friendly).toLowerCase() === "yes";
+    const [minBeds, maxBeds] = parseBedroomRange(agency.Bedrooms || "0-10");
+    const matchTags = (agency.Match_Tags || []).map(t => t.toLowerCase());
+
+    const monthlyIncome = answers.total_income; 
+    const pets = answers.pets; 
+    const bedroomPref = answers.bedrooms;
+    const kids = answers.kids;
+    const currentHousing = answers.current_housing;
+    const needsAccessible = answers.needs_accessible; 
+
+    // 1. Affordability
+    if (monthlyIncome > 0) {
+        const budgetMax = monthlyIncome / 3;
+        if (minRent <= budgetMax) {
+            score += 3;
+            positiveReasons.push("Rent range roughly fits your income (below 33% of income).");
+        } else if (minRent <= budgetMax * 1.2) { // 33% to 40% of income
+            score += 1;
+            positiveReasons.push("Rent is a bit high, using 33%-40% of income, but possibly workable.");
+        } else {
+            score -= 4;
+            negativeReasons.push("Rent may be too high for your current income (over 40% of income).");
+        }
+    }
+
+    // 2. Bedroom match
+    if (minBeds <= bedroomPref && bedroomPref <= maxBeds) {
+        score += 3;
+        positiveReasons.push(`Offers your preferred ${bedroomPref} bedroom(s).`);
+    } else {
+        score -= 1;
+        negativeReasons.push("Bedroom count may not fit your preference.");
+    }
+
+    // 3. Pets
+    if (pets === 'Yes') { 
+        if (petFriendly) {
+            score += 2;
+            positiveReasons.push("Pet friendly.");
+            
+            const isLargeOrRestricted = answers.pet_weight === 'Yes' || answers.restricted_breed === 'Yes' || answers.restricted_breed === "I don't know";
+            
+            if (isLargeOrRestricted) {
+                score -= 1;
+                negativeReasons.push("Your pet may be large or a restricted breed, which could incur extra fees or property specific rules.");
+            }
+
+        } else {
+            score -= 6;
+            negativeReasons.push("Does not allow pets.");
+        }
+    }
+
+    // 4. Family-friendly tag 
+    if (kids > 0 && matchTags.includes("family-friendly")) {
+        score += 2;
+        positiveReasons.push("Flagged as family-friendly due to having kids.");
+    }
+
+    // 5. Accessibility
+    if (needsAccessible === "Yes") { 
+        if (matchTags.includes("accessible") || matchTags.includes("accessibility-support")) {
+            score += 2;
+            positiveReasons.push("May be more accessible-friendly.");
+        } else {
+            score -= 1;
+            negativeReasons.push("Accessibility features not clearly listed.");
+        }
+    }
+    
+    // 6. Current housing situation
+    if (currentHousing === "Currently unhoused" || currentHousing === "At risk of losing housing") {
+        if (minRent <= 1100) {
+            score += 2;
+            positiveReasons.push("Lower starting rent, possibly more reachable for current situation.");
+        }
+        if (matchTags.includes("voucher-friendly")) {
+            score += 3;
+            positiveReasons.push("Tagged as voucher-friendly.");
+        }
+    }
+    
+    // --- SCALING LOGIC ---
+    const MIN_RAW_SCORE = -12; 
+    const MAX_RAW_SCORE = 17; 
+    const RANGE_RAW = MAX_RAW_SCORE - MIN_RAW_SCORE;
+
+    const normalizedScore = (score - MIN_RAW_SCORE) / RANGE_RAW;
+    let scaledScore = normalizedScore * 9 + 1;
+    
+    scaledScore = Math.max(1.0, Math.min(10.0, scaledScore));
+    scaledScore = Math.round(scaledScore * 10) / 10;
+
+    // Return the final score and both sets of reasons
+    return { 
+        score: scaledScore, 
+        // Combine reasons for backward compatibility (e.g., CSV)
+        reasons: [...positiveReasons, ...negativeReasons], 
+        positiveReasons: positiveReasons, 
+        negativeReasons: negativeReasons
+    };
+}
+
+function matchTopAgencies(allData, answers, topN = 3) {
+    const scored = allData.map(agency => {
+        const { score, reasons, positiveReasons, negativeReasons } = scoreAgency(agency, answers);
+        return { score, agency, reasons, positiveReasons, negativeReasons };
+    });
+    
+    scored.sort((a, b) => b.score - a.score);
+    return scored.slice(0, topN);
+}
+
+// --- FORM DATA COLLECTION ---
+
+function getFormAnswers() {
+    const incomeSlider = document.getElementById('income-slider');
+    const baseIncome = parseInt(incomeSlider.value);
+
+    const currentHousing = getRadioValue('current_housing');
+    const hasPets = getRadioValue('pets');
+    
+    const answers = {
+        name: document.getElementById('name').value,
+        email: document.getElementById('email').value,
+        total_income: baseIncome,
+        bedrooms: parseInt(getRadioValue('bedrooms')),
+        adults: parseInt(getRadioValue('adults')), 
+        kids: parseInt(getRadioValue('kids')), 
+        pets: hasPets, 
+        needs_accessible: getRadioValue('needs_accessible'),
+        current_housing: currentHousing,
+        eviction: getRadioValue('eviction'), 
+        criminal_record: getRadioValue('criminal_record'),
+        needs_transit: getRadioValue('needs_transit'),
+    };
+    
+    // --- ADD CONDITIONAL PET ANSWERS ---
+    if (hasPets === "Yes") {
+        answers.pet_weight = getRadioValue('pet_weight');
+        answers.restricted_breed = getRadioValue('restricted_breed');
+        
+        if (answers.restricted_breed === "I don't know") {
+            answers.breed_description = document.getElementById('breed_description').value;
+        }
+    }
+
+
+    // --- ADD BRANCHED HOUSING ANSWERS ---
+    if (currentHousing === "Currently unhoused") {
+        if (document.getElementById('unhoused-section').style.display === 'block') {
+            answers.unhoused_description = document.getElementById('unhoused_desc').value;
+            answers.unhoused_how_long = getRadioValue('unhoused_how_long');
+            answers.unhoused_where = getRadioValue('unhoused_where');
+        }
+    } else if (currentHousing === "At risk of losing housing") {
+         if (document.getElementById('at-risk-section').style.display === 'block') {
+            answers.risk_description = document.getElementById('risk_desc').value;
+            answers.risk_lease_in_name = getRadioValue('risk_lease_in_name') === 'true';
+            answers.risk_eviction_notice = getRadioValue('risk_eviction_notice') === 'true';
+            answers.risk_behind_bills = getRadioValue('risk_behind_bills') === 'true';
+            answers.risk_want_to_stay = getRadioValue('risk_want_to_stay') === 'true';
+            answers.risk_lease_length = getRadioValue('risk_lease_length');
+        }
+    } else if (currentHousing === "Staying with friends or family") {
+        if (document.getElementById('family-section').style.display === 'block') {
+            answers.family_description = document.getElementById('family_desc').value;
+            answers.family_afford_length = getRadioValue('family_afford_length'); 
+            answers.family_contribute = getRadioValue('family_contribute') === 'true';
+            answers.family_on_lease = getRadioValue('family_on_lease') === 'true';
+            answers.family_perm_plan = getRadioValue('family_perm_plan') === 'true';
+        }
+    } else if (currentHousing === "Own place") { 
+        if (document.getElementById('own-place-section').style.display === 'block') {
+            answers.own_afford_length = getRadioValue('own_afford_length');
+            answers.own_behind_bills = getRadioValue('own_behind_bills') === 'true';
+        }
+    }
+    return answers;
+}
+
+// --- CSV DOWNLOAD LOGIC ---
+
+function triggerCSVDownload() {
+    if (LAST_ANSWERS && LAST_MATCHES) {
+        saveResultsAsCSV(LAST_ANSWERS, LAST_MATCHES);
+    } else {
+        alert("Error: Results data not available for download. Please run the match first.");
+    }
+}
+
+function displayResults(matches) {
+    const resultsDiv = document.getElementById('results-container');
+    resultsDiv.innerHTML = '<h2>Top 3 Suggested Housing Options</h2>';
+
+    if (matches.length === 0) {
+        resultsDiv.innerHTML += '<p>No matches found based on the provided criteria. Try adjusting your input.</p>';
+    }
+
+    matches.forEach((match, index) => {
+        const agency = match.agency;
+        
+        // Use the dedicated positive and negative reason arrays
+        const positiveHtml = match.positiveReasons.map(r => `<li>${r}</li>`).join('');
+        // Add a red color style to negative reasons for visual warning
+        const negativeHtml = match.negativeReasons.map(r => `<li style="color: darkred;">${r}</li>`).join('');
+        
+        const formattedScore = match.score.toFixed(1);
+
+        // RENDER: Dedicated section for negative reasons. (Why this may NOT be a match)
+        const negativeSection = match.negativeReasons.length > 0 
+            ? `
+                <p><strong>Why this may NOT be a match:</strong></p>
+                <ul>${negativeHtml}</ul>
+              `
+            : ''; // Changed to empty string if no negative reasons, to avoid displaying a redundant "no negative factors" message when a positive section exists.
+            
+        // RENDER: Dedicated section for positive reasons. (Why this may be a match)
+        const positiveSection = match.positiveReasons.length > 0
+            ? `
+                <p><strong>Why this may be a match:</strong></p>
+                <ul>${positiveHtml}</ul>
+              `
+            : ''; // Changed to empty string if no positive reasons.
+            
+        // Fallback message if neither section has content
+        const fallbackMessage = (negativeSection === '' && positiveSection === '') 
+            ? '<p>No specific match factors (positive or negative) were identified for this listing based on your answers.</p>'
+            : '';
+
+
+        resultsDiv.innerHTML += `
+            <div class="match-result">
+                <h3>#${index + 1}: ${agency.Organization} (Score: ${formattedScore}/10)</h3> 
+                <p><strong>Phone:</strong> ${agency.Phone || 'N/A'} | <strong>Address:</strong> ${agency.Address || 'N/A'}</p>
+                <p><strong>Rent Range:</strong> $${agency.Min_Rent} – $${agency.Max_Rent} | <strong>Bedrooms:</strong> ${agency.Bedrooms}</p>
+                <p><strong>Pet Friendly:</strong> ${agency.Pet_Friendly || 'Unknown'} | <strong>Notes:</strong> ${agency.Notes || 'N/A'}</p>
+                
+                ${fallbackMessage}
+                ${negativeSection}
+                ${positiveSection}
+            </div>
+        `;
+    });
+
+    resultsDiv.innerHTML += `<br><button id="download-csv-button">Download Results CSV</button>`;
+    document.getElementById('download-csv-button').onclick = triggerCSVDownload;
+}
+
+function saveResultsAsCSV(answers, topMatches) {
+    const name = answers.name.trim().replace(/\s+/g, '_'); 
+    const email = answers.email.trim();
+    const filename = `${name}_${email}.csv`.replace(/@/g, '_at_').replace(/\./g, '_dot_'); 
+
+    let csvContent = "data:text/csv;charset=utf-8,";
+    
+    csvContent += "User Information\n";
+    csvContent += `"Name", "${answers.name}"\n`;
+    csvContent += `"Email", "${answers.email}"\n\n`;
+
+    csvContent += "Survey Answers\n";
+    const excludedKeys = ['name', 'email']; 
+    for (const key in answers) {
+        if (answers.hasOwnProperty(key) && !excludedKeys.includes(key)) {
+            let value = answers[key];
+            
+            if (typeof value === 'boolean') {
+                value = value ? 'Yes' : 'No';
+            } else if (typeof value === 'string' && (value === 'true' || value === 'false')) {
+                value = value === 'true' ? 'Yes' : 'No';
+            }
+
+            const escape = (text) => `"${String(text).replace(/"/g, '""')}"`;
+            csvContent += `"${key}", ${escape(value)}\n`;
+        }
+    }
+    csvContent += "\n";
+
+    csvContent += "Top 3 Housing Matches\n";
+    csvContent += "Rank,Organization,Score,Phone,Address,Rent Range,Bedrooms,Pet Friendly,Why it matched\n";
+
+    topMatches.forEach((match, index) => {
+        const agency = match.agency;
+        // Use the combined reasons array for CSV output compatibility
+        const reasons = match.reasons.join("; "); 
+        
+        const escape = (text) => `"${String(text).replace(/"/g, '""')}"`;
+
+        const row = [
+            index + 1,
+            escape(agency.Organization),
+            match.score.toFixed(1),
+            escape(agency.Phone || 'N/A'),
+            escape(agency.Address || 'N/A'),
+            escape(`$${agency.Min_Rent} – $${agency.Max_Rent}`),
+            escape(agency.Bedrooms),
+            escape(agency.Pet_Friendly || 'Unknown'),
+            escape(reasons)
+        ];
+        csvContent += row.join(",") + "\n";
+    });
+
+    // Trigger Download
+    const encodedUri = encodeURI(csvContent);
+    const link = document.createElement("a");
+    link.setAttribute("href", encodedUri);
+    link.setAttribute("download", filename);
+    document.body.appendChild(link);
+    link.click();
+    document.body.removeChild(link);
+    console.log(`Saved results to CSV file: ${filename}`);
+}
+
+
+// --- MAIN FUNCTION ---
+
+function runSurvey(event) {
+    event.preventDefault(); 
+    
+    // Basic check for required core radio buttons
+    if (
+        !getRadioValue('bedrooms') || 
+        !getRadioValue('adults') ||
+        !getRadioValue('kids') ||
+        !getRadioValue('pets') ||
+        !getRadioValue('needs_accessible') ||
+        !getRadioValue('current_housing') ||
+        !getRadioValue('eviction') ||
+        !getRadioValue('criminal_record') ||
+        !getRadioValue('needs_transit')
+    ) {
+        alert("Please answer all required core questions.");
+        return;
+    }
+
+    const answers = getFormAnswers();
+    
+    if (!answers.name || !answers.email) {
+        alert("Please provide your full name and email.");
+        return;
+    }
+    
+    if (HOUSING_DATA.length === 0) {
+        alert("The housing data has not loaded correctly. Check the console for errors.");
+        return;
+    }
+
+    const topMatches = matchTopAgencies(HOUSING_DATA, answers, 3);
+    
+    LAST_ANSWERS = answers;
+    LAST_MATCHES = topMatches;
+    
+    displayResults(topMatches);
+
+    document.getElementById('results-container').scrollIntoView({ behavior: 'smooth' });
+}
+
